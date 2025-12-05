@@ -10,5 +10,7 @@ This module contains 3 pins being, GND, VCC(5v), and an analog singal pin that c
 
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/c727fe5e-acf1-471f-b5cf-24c1e2d37f71" />
 
-[Uploading Video.mov…]()
+
+
+https://github.com/user-attachments/assets/eb27edd6-172a-497b-b023-aa80ddb7f317
 
